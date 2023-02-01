@@ -1,2 +1,2 @@
-# git.alura
+# Alura - Git
 Alura Git
